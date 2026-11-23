@@ -4,6 +4,7 @@ funciones:
 - crear aplicaciones personalizadas
 - crear paginas web
 - ensenar sobre software
+  
 |cargo|Departamento|
 |-----|------------|
 |     |            |
